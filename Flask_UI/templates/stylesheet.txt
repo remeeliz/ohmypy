@@ -1,0 +1,47 @@
+body{background-color: #ffb300; font-family:"Trebuchet MS", Helvetica, sans-serif;}
+h1{color: blue; font-variant: small-caps;}
+#header{width: 80%; horizontal-align: center;}
+div{margin: 0 auto; width: 80%; text-align: center; border-radius:6px;}
+button{margin: 10px; width: 70%; height: 50px; text-align: center; box-shadow: 0px 1px 0px 0px #f0f7fa; border-radius:6px; display:inline-block; cursor:pointer; font-size:15px; font-weight:bold; text-decoration:none;}
+button:hover {background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%); background-color:#019ad2;}
+#button1:active,#button2:active {position:relative; top:1px;}
+#button1{margin: 10px; width: 70%; height: 50px; text-align: center; box-shadow: 0px 1px 0px 0px #f0f7fa; border-radius:6px; display:inline-block; cursor:pointer; font-size:15px; font-weight:bold; text-decoration:none; color: black; line-height: 40px;}
+#button1:hover{background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%); background-color:#019ad2;}
+#button1:active {position:relative; top:1px;}
+#button1{background:linear-gradient(to bottom, #89c403 5%, #77a809 100%); background-color:#89c403; border:1px solid #74b807;}
+#button1:hover {background:linear-gradient(to bottom, #77a809 5%, #89c403 100%); background-color:#77a809;}
+
+#button2:active,#button2:active {position:relative; top:1px;}
+#button2{margin: 10px; width: 70%; height: 50px; text-align: center; box-shadow: 0px 1px 0px 0px #f0f7fa; border-radius:6px; display:inline-block; cursor:pointer; font-size:15px; font-weight:bold; text-decoration:none; color: black; line-height: 40px;}
+#button2:hover{background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%); background-color:#019ad2;}
+#button2:active {position:relative; top:1px;}
+#button2{background:linear-gradient(to bottom, #89c403 5%, #77a809 100%); background-color:#89c403; border:1px solid #74b807;}
+#button2:hover {background:linear-gradient(to bottom, #77a809 5%, #89c403 100%); background-color:#77a809;}
+#button2{background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%); background-color:#3d94f6; border:1px solid #337fed;}
+#button2:hover {background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%); background-color:#1e62d0;}
+
+#button3{background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%); background-color:#ffec64; border:1px solid #ffaa22;}
+#button3:hover {background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%); background-color:#ffab23;}
+#button3:active + #more_info {display: block;}
+
+#button5{background:linear-gradient(to bottom, #e4a6ff 5%, #efc9ff 100%); background-color:#efc9ff; border:1px solid #d778ff;}
+#button5:hover {background:linear-gradient(to bottom, #efc9ff 5%, #e4a6ff 100%); background-color:#efc9ff;}
+#button5:active + #more_info {display: block;}
+
+#test{display: none;}
+#hide{display: none;}
+a { text-decoration: none; color: black;}
+
+#more_info{display: none;}
+
+#display_info{font-size:10px; font-weight:normal; text-align: justify;}
+#return_image{width: 50%;}
+#display_face{font-size:10px; font-weight:normal; text-align: justify; background-color: #e0e0e0; padding: 10px 10px; width: 50%; }
+
+#learn_face{font-size:10px; font-weight:normal; text-align: center;padding: 25px 50px;background-color: #e0e0e0; margin-top: 10px;}
+.custom-file-upload {border: 1px solid #ccc; display: inline-block; padding: 6px 12px; cursor: pointer;}
+#eval_button{margin: 10px; width: 50%; height: 5%; text-align: center; box-shadow: 0px 1px 0px 0px #f0f7fa; border-radius:6px; cursor:pointer; font-size:15px; font-weight:bold; text-decoration:none;}
+
+input[type="file"] {display: none;}
+.alert {  padding: 20px;  background-color: #f44336;  color: white;} .closebtn {  margin-left: 15px;  color: white;  font-weight: bold;  float: right;  font-size: 22px;  line-height: 20px;  cursor: pointer;  transition: 0.3s;} .closebtn:hover {  color: black;}
+footer{font-size:8px; font-weight:bold; text-align: center; position: fixed; left:0; bottom:0; width: 100%
