@@ -7,7 +7,11 @@ blinker==1.4
 boto3==1.14.12
 botocore==1.17.12
 certifi==2019.11.28
+<<<<<<< HEAD
 Click==7.0
+=======
+chardet==3.0.4
+>>>>>>> a100703f47f309e95731dbb919699a9946590a8e
 command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
@@ -25,9 +29,13 @@ entrypoints==0.3
 ffpyplayer==4.3.1
 filelock==3.0.12
 Flask==1.1.2
+<<<<<<< HEAD
 gstreamer-player==1.1.2
 html5lib==1.0.1
 httplib2==0.14.0
+=======
+httplib2==0.18.0
+>>>>>>> a100703f47f309e95731dbb919699a9946590a8e
 hyperlink==19.0.0
 idna==2.8
 importlib-metadata==1.5.0
