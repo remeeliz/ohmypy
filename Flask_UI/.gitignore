@@ -1,6 +1,0 @@
-*.pyc
-__pycache__/
-database/__pycache__/
-media_player/__pycache__/
-pyimagesearch/__pycache__/
-templates/__pycache__/
